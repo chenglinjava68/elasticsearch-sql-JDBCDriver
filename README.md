@@ -8,5 +8,6 @@ elasticsearch 6.3.0的好像调用了x-pack组件会报错，所以暂时没提�
 
 
 
-
 目前支持 elasticsearch 6.2.4  elasticsearch-sql 6.2.4
+驱动的名字继续沿用elasticsearch-sql的规则吧。 
+org.nlpcn.es4sql.jdbc.Driver
